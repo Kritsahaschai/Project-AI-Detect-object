@@ -13,7 +13,6 @@ The age and gender prediction models u can find (`age_net.caffemodel`, `gender_n
 
 
 ## How to do this 
--******-
 I use " Visual studio Code " python
 U should have "  6 file "  in ur folder  
 * ** 1-4  --->  (`age_net.caffemodel`, `gender_net.caffemodel`,`gender_deploy.prototxt`,`age_deploy.prototxt`)
@@ -21,12 +20,12 @@ U should have "  6 file "  in ur folder
 * ** 6    ---> my file "Detect Object code.py "
 u can open it on VScode and click my file "Detect Object code.py "
 and install library 
-* ** pip install opencv-python
-* ** pip install tensorflow
-* ** pip install opencv-contrib-python
-* ** pip install ultralytics
-* ** pip insrall fer
-* ** pip install moviepy==1.0.3
+*  pip install opencv-python
+*  pip install tensorflow
+*  pip install opencv-contrib-python
+*  pip install ultralytics
+*  pip insrall fer
+*  pip install moviepy==1.0.3
 yes it will be finished if dont have something wrong!!!
     
 Guys im beginner with code with this github it like a level 1 in game lol.I do this project because my lecturer give this project to our class that why i make this project
