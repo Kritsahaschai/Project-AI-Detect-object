@@ -26,6 +26,7 @@ and install library
 *  pip install ultralytics
 *  pip insrall fer
 *  pip install moviepy==1.0.3
+
 yes it will be finished if dont have something wrong!!!
     
 Guys im beginner with code with this github it like a level 1 in game lol.I do this project because my lecturer give this project to our class that why i make this project
